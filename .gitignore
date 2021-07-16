@@ -34,3 +34,7 @@ Temporary Items
 # debug file
 _site
 /.idea/
+Gemfile
+Gemfile.lock
+package-lock.json
+node_modules/
