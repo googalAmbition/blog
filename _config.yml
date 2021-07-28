@@ -6,7 +6,7 @@ header-img: img/post-bg-desk.jpg
 email: tiancheng.cool@gmail.com
 description: "Every failure is leading towards success."
 keyword: "孟宝宝，java"
-url: "http://googalAmbition.github.io"          # your host, for absolute URL
+url: "http://googalAmbition.github.io/blog"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/googalAmbition/googalAmbition.github.io.git" # you code repository
 
@@ -40,7 +40,7 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
 
 
 
@@ -107,5 +107,6 @@ friends: [
   href: "https://blog.csdn.net/qq_23934475"
 }
 ]
-
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+ - jekyll-theme-cayman
