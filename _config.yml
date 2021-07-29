@@ -13,7 +13,7 @@ github_repo: "https://github.com/googalAmbition/blog.git" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "闲暇定终生"
-sidebar-avatar: /img/furen.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /blog/img/furen.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
